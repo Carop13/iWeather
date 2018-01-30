@@ -4,12 +4,18 @@ Project Usage:
 ===========================
 
 Run the project in develop mode:
-  ``ionic serve``
+```sh
+  $ ionic serve
+```
 
 Run the project in android emulator:
-  ``ionic cordova run android``
-  ``ionic cordova run android --livereload``
+```sh
+  $ ionic cordova run android
+  $ ionic cordova run android --livereload
+```
 
 Run the project in ios emulator:
-  ``ionic cordova run ios``
-  ``ionic cordova run ios --livereload``
+```sh
+  $ ionic cordova run ios
+  $ ionic cordova run ios --livereload
+```
