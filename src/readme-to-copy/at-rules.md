@@ -27,7 +27,7 @@ About Fonts here :
 
 1. [W3 School][6]
 
-> The estimation for this practice is: 2 hours.
+> The estimation for this practice is: 3 hours.
 
 ### To Do
 
@@ -41,8 +41,8 @@ $ gulp serve
 
 - Using Mobile first method, follow the next steps:
 
-1. Create an adaptive design mobile, table and desktop.
-2. import the fonts from different scss files and change the background and font for each resolution.
+1. Create a mobile first design responsive in tablets and desktop.
+2. Import the fonts inside different scss files and changed for each resolution.
 2. Follow the final design in the video.
 
 [1]: https://www.smashingmagazine.com/2010/07/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/
@@ -51,5 +51,5 @@ $ gulp serve
 [4]: https://zellwk.com/blog/how-to-write-mobile-first-css/
 [5]: http://vanseodesign.com/css/sass-the-import-directive/
 [6]: https://www.w3schools.com/w3css/w3css_fonts.asp
-[7]: https://drive.google.com/file/d/1wXKfyLeYFy6aDUR32ceROZYyFpjPdjPJ/view?usp=sharing
+[7]: https://drive.google.com/file/d/13qRFs7Tj_3hCTIWwLldGVEUFbhxmOtNj/view?usp=sharing
 
